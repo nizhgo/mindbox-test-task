@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
 
 body {
-  margin: 0;
-  background-color: #0468FF;
-  font-family: 'Inter', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    background-color: #0468FF;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, button, input, ul, li, p {
-  all: unset;
+    all: unset;
 }
 
